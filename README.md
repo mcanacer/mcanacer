@@ -5,14 +5,7 @@ Istanbul, Turkey · acermuhammetcan@gmail.com
 
 ---
 
----
-
 ## What I've Built
-
-### Self-Supervised Learning
-| Paper | Framework | Notes |
-|---|---|---|
-| [DINOv2](https://arxiv.org/abs/2304.07193) | JAX/Flax | Full training pipeline from scratch — multi-crop, sinkhorn-knopp, EMA teacher |
 
 ### Generative Models
 | Paper | Framework | Notes |
